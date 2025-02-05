@@ -2,7 +2,8 @@
 
 **`Desenvolvedora`**
 
-Ola, seja bem vindo! Me chamo Vitoria Alves Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitario de São Paulo, entusiasta da tecnologia e apaixonada por criação e inovação no desenvolvimento de software. Tenho o conhecimento em desenvolvimento web e de software, com habilidades em JavaScript, Python, SQL, HTML e CSS.
+Ola, seja bem vindo! Me chamo Vitoria.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitario de São Paulo, entusiasta da tecnologia e apaixonada por criação e inovação no desenvolvimento de software. Tenho o conhecimento em desenvolvimento web e de software, com habilidades em JavaScript, Python, SQL, HTML e CSS.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
